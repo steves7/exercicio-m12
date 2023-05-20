@@ -1,0 +1,21 @@
+body {
+    background-color: aliceblue;
+}
+
+.container {
+    padding: 15%;
+    
+}
+
+
+form {
+    display: block;
+    align-items: center;
+}
+input {
+    max-width: 360px;
+}
+
+button {
+    margin: 8px;
+}
